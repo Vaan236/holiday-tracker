@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vaan236/holiday-tracker.git/static/css/main.a6d2b1d9.css",
+    "main.js": "/Vaan236/holiday-tracker.git/static/js/main.1d889cbe.js",
+    "static/js/453.5c6dbf35.chunk.js": "/Vaan236/holiday-tracker.git/static/js/453.5c6dbf35.chunk.js",
+    "index.html": "/Vaan236/holiday-tracker.git/index.html",
+    "main.a6d2b1d9.css.map": "/Vaan236/holiday-tracker.git/static/css/main.a6d2b1d9.css.map",
+    "main.1d889cbe.js.map": "/Vaan236/holiday-tracker.git/static/js/main.1d889cbe.js.map",
+    "453.5c6dbf35.chunk.js.map": "/Vaan236/holiday-tracker.git/static/js/453.5c6dbf35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d2b1d9.css",
+    "static/js/main.1d889cbe.js"
+  ]
+}
